@@ -3,7 +3,6 @@ Composer image with Php 7.2 and XDebug extension enabled for running CI with cod
 
 ## Description
 This image contains:
->>>>>>> Added Dockerfile and ReadMe
  - php 7.2.14
  - composer 1.8.0
  - XDebug 2.6.0
