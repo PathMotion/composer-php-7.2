@@ -1,4 +1,4 @@
-# composer-php-7.2 [![Build Status](https://travis-ci.org/PathMotion/composer-php-5.6.svg?branch=master)](https://travis-ci.org/PathMotion/composer-php-5.6)
+# composer-php-7.2 [![Build Status](https://travis-ci.org/PathMotion/composer-php-7.2.svg?branch=master)](https://travis-ci.org/PathMotion/composer-php-7.2)
 Composer image with Php 7.2 and XDebug extension enabled for running CI with code coverage capabilities.
 
 ## Description
