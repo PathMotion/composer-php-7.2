@@ -14,7 +14,7 @@ docker build -t image_name .
 ```
 
 ### Run container
-From any Php 5.6 project directory you want to install, run `composer install` from the container:
+From any Php 7.2 project directory you want to install, run `composer install` from the container:
 ```
 docker run -it --rm -v $PWD:/app image_name install
 ```
