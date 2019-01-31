@@ -2,9 +2,8 @@
 Composer image with Php 7.2 and XDebug extension enabled for running CI with code coverage capabilities.
 
 ## Description
-This image is based on [prooph/docker-files](https://github.com/prooph/docker-files/tree/fad9c12cf74f84ea52f33b5483ad28e06d631e01/composer) containing a few extra Php extensions. We also added XDebug support.
-
-It contains:
+This image contains:
+>>>>>>> Added Dockerfile and ReadMe
  - php 7.2.14
  - composer 1.8.0
  - XDebug 2.6.0
